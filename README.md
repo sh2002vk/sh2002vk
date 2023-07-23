@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shubh
-- I’m interested in: all things software
-- I’m currently learning backend development
-- I’m looking to collaborate on any fun projects and startups!
-- 📫 How to reach me: sh2002vk@gmail.com
+- Currently, I’m interested in building things from scratch
+- I’m also focusing on better understanding vector databases
+- Reach me at sh2002vk@gmail.com if you have an interesting idea or problem!
 
