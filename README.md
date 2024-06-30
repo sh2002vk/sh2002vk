@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubh
-- Currently, I’m interested in building things from scratch
-- I’m also focusing on better understanding vector databases
-- Reach me at sh2002vk@gmail.com if you have an interesting idea or problem!
+- Co-founder and CTO at WorkInProgress, where we're building the future of internship recruiting
+- I like building products and meeting people who make change
+- Passionate about trading, cars and travelling!
 
